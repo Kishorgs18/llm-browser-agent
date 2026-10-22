@@ -1,0 +1,4 @@
+.env
+videos/
+run.log
+__pycache__/
